@@ -1,6 +1,6 @@
 {
   "name": "huykaiser-dev",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "My Name's Nguyen Van Huy And I'm From Vietnam I Was Born And Raised In Tra Vinh Currently I'm In Ho Chi Minh City",
   "scripts": {
     "test": "mocha",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/huykaiserUwU/fca-huykaiser-remake.git"
+    "url": "git://github.com/huykaiserUwU/fca-huykaiser-dev.git"
   },
   "keywords": [
     "Fca",
@@ -20,7 +20,7 @@
     "Fca-huykaiser-remake"
   ],
   "bugs": {
-    "url": "https://github.com/huykaiserUwU/fca-huykaiser-remake"
+    "url": "https://github.com/huykaiserUwU/fca-huykaiser-dev"
   },
   "author": "Nguyễn Văn Huy X HuyKaiser",
   "license": "MIT",
@@ -72,7 +72,7 @@
       ]
     }
   },
-  "homepage": "https://github.com/huykaiserUwU/fca-huykaiser-remake#readme",
+  "homepage": "https://github.com/huykaiserUwU/fca-huykaiser-dev#readme",
   "main": "index.js",
   "directories": {
     "lib": "lib",
