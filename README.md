@@ -1,4 +1,4 @@
-# fca-huykaiser-remake
+# huykaiser-dev
 ## Notification !
 
 Lưu Ý! Đây Là Sản Phẩm Được HuyKaiser Remake Chính Bởi [Facebook-Chat-Api](https://github.com/Schmavery/facebook-chat-api)(Mod của: Fca-Xuyen-Get(bị xóa) bao gồm tác giả [UIRI](https://github.com/BadAimWeeb) từ trước và Tác giả chính: [Schmavery](https://github.com/Schmavery), Tác Giả Hiện Tại Không Chịu Trách Nghiệm Nào ! ), Nếu Có Lỗi Hãy Thử Sử Dụng Sang Sản Phẩm Khác !
@@ -20,11 +20,11 @@ Lưu Ý ! Nếu Bạn Muốn Sài Api Này Hãy Xem Document Tại [Đây Nè](h
 
 Nếu Bạn Muốn Sử Dụng, Hãy Tải Nó Bằng Cách:
 ```bash
-npm i fca-huykaiser-remake
+npm i huykaiser-dev
 ```
 or
 ```bash
-npm install fca-huykaiser-remake
+npm install huykaiser-dev
 ```
 
 Nó Sẽ Tải Vô node_modules (Lib Của Bạn) - Lưu Ý Replit Sẽ Không Hiện Đâu Mà Tìm 😪
@@ -33,11 +33,11 @@ Nó Sẽ Tải Vô node_modules (Lib Của Bạn) - Lưu Ý Replit Sẽ Không H
 
 Nếu Bạn Muốn Sử Dụng Phiên Bản Mới Nhất Hay Cập Nhật Thì Hãy Vô Terminal Hoặc Command Promt Nhập :
 ```bash
-npm install fca-huykaiser-remake@latest
+npm install huykaiser-dev@latest
 ```
 Hoặc
 ```bash
-npm i fca-huykaiser-remake@latest
+npm i huykaiser-dev@latest
 ```
 
 ## Nếu Bạn Muốn Test Api 
@@ -48,7 +48,7 @@ Hãy Sử Dụng Với Tài Khoản Thử Nghiệm => [Facebook Whitehat Account
 ## Cách Sử Dụng
 
 ```javascript
-const login = require("fca-huykaiser-remake"); // lấy từ lib ra 
+const login = require("huykaiser-dev"); // lấy từ lib ra 
 
 // đăng nhập
 login({email: "Gmail Account", password: "Mật Khẩu Facebook Của Bạn"}, (err, api) => {
@@ -88,7 +88,7 @@ Bạn Cần Vô File Mirai.js,Sau Đó Tìm Đến Dòng
 Và Thay Nó Bằng:
 
 ```js
-    var login = require('fca-huykaiser-remake')
+    var login = require('huykaiser-dev')
 ```
 
 Sau Đó Thì Chạy Bình Thường Thôi  !
@@ -109,7 +109,7 @@ __Hướng Dẫn Với Appstate__
 
 ```js
 const fs = require("fs");
-const login = require("fca-huykaiser-remake");
+const login = require("huykaiser-dev");
 
 var credentials = {email: "FB_EMAIL", password: "FB_PASSWORD"}; // thông tin tk
 
