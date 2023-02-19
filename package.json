@@ -1,6 +1,6 @@
 {
   "name": "huykaiser-dev",
-  "version": "1.2.9",
+  "version": "1.3.0",
   "description": "My Name's Nguyen Van Huy And I'm From Vietnam I Was Born And Raised In Tra Vinh Currently I'm In Ho Chi Minh City",
   "scripts": {
     "test": "mocha",
@@ -25,10 +25,14 @@
   "author": "Nguyễn Văn Huy X HuyKaiser",
   "license": "MIT",
   "dependencies": {
-    "aes-js": "^3.1.2",
-    "axios": "^1.2.1",
+    "aes-js": "latest",
+    "assert": "latest",
     "bluebird": "^2.11.0",
+    "chalk": "4.1.2",
     "cheerio": "^1.0.0-rc.10",
+    "crypto": "latest",
+    "crypto-js": "latest",
+    "axios": "^1.2.1",
     "dotenv": "^16.0.3",
     "fs-extra": "^11.1.0",
     "https-proxy-agent": "^4.0.0",
